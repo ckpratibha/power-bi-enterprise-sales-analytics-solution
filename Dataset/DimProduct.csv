@@ -1,0 +1,501 @@
+﻿ProductKey,ProductName,Category,Subcategory,Brand,StandardCost,ListPrice,ProductTier,Status
+1,Adventure Laptops 01,Electronics,Laptops,Adventure,71.33,109.83,Standard,Active
+2,Fabrikam Laptops 02,Electronics,Laptops,Fabrikam,815.63,1362.1,Eco,Active
+3,Adventure Laptops 03,Electronics,Laptops,Adventure,220.3,343.96,Eco,Active
+4,Summit Laptops 04,Electronics,Laptops,Summit,126.02,215.9,Eco,Active
+5,Vertex Laptops 05,Electronics,Laptops,Vertex,429.62,699.09,Standard,Active
+6,Nova Laptops 06,Electronics,Laptops,Nova,92.14,143.33,Premium,Active
+7,Contoso Laptops 07,Electronics,Laptops,Contoso,374.7,626.64,Eco,Active
+8,Contoso Laptops 08,Electronics,Laptops,Contoso,590.88,914.87,Premium,Active
+9,Fabrikam Laptops 09,Electronics,Laptops,Fabrikam,657.57,1076.01,Standard,Active
+10,Northwind Laptops 10,Electronics,Laptops,Northwind,178.9,265.79,Premium,Active
+11,Fabrikam Laptops 11,Electronics,Laptops,Fabrikam,171.67,247.84,Premium,Active
+12,Fabrikam Laptops 12,Electronics,Laptops,Fabrikam,728.76,1215.5,Standard,Active
+13,Contoso Laptops 13,Electronics,Laptops,Contoso,589.71,877.57,Standard,Active
+14,Northwind Laptops 14,Electronics,Laptops,Northwind,834.32,1388.11,Premium,Active
+15,Vertex Laptops 15,Electronics,Laptops,Vertex,441.19,574.36,Standard,Active
+16,Vertex Laptops 16,Electronics,Laptops,Vertex,154.86,182.93,Premium,Active
+17,Apex Laptops 17,Electronics,Laptops,Apex,834.45,1358.09,Premium,Active
+18,Pioneer Laptops 18,Electronics,Laptops,Pioneer,629.36,1004.7,Eco,Active
+19,Apex Laptops 19,Electronics,Laptops,Apex,648.82,822.86,Standard,Active
+20,Pioneer Laptops 20,Electronics,Laptops,Pioneer,872.09,1316.97,Standard,Active
+21,Summit Laptops 21,Electronics,Laptops,Summit,675.19,818.72,Premium,Active
+22,Northwind Laptops 22,Electronics,Laptops,Northwind,456.54,760.62,Standard,Active
+23,Northwind Laptops 23,Electronics,Laptops,Northwind,865.01,1060.21,Standard,Active
+24,Adventure Laptops 24,Electronics,Laptops,Adventure,538.77,843.11,Premium,Active
+25,Adventure Laptops 25,Electronics,Laptops,Adventure,114.94,193.96,Eco,Active
+26,Vertex Monitors 01,Electronics,Monitors,Vertex,538.31,825.25,Eco,Active
+27,Apex Monitors 02,Electronics,Monitors,Apex,528.64,781.32,Standard,Active
+28,Apex Monitors 03,Electronics,Monitors,Apex,605.4,822.79,Premium,Active
+29,Orion Monitors 04,Electronics,Monitors,Orion,124.74,193.09,Premium,Active
+30,Contoso Monitors 05,Electronics,Monitors,Contoso,836.68,1433.54,Premium,Active
+31,Fabrikam Monitors 06,Electronics,Monitors,Fabrikam,562.07,843.61,Standard,Active
+32,Northwind Monitors 07,Electronics,Monitors,Northwind,487.57,715.93,Premium,Active
+33,Nova Monitors 08,Electronics,Monitors,Nova,793.73,1334.41,Premium,Active
+34,Apex Monitors 09,Electronics,Monitors,Apex,148.71,246.15,Eco,Active
+35,Pioneer Monitors 10,Electronics,Monitors,Pioneer,885.6,1452.43,Standard,Active
+36,Fabrikam Monitors 11,Electronics,Monitors,Fabrikam,603.73,903.25,Standard,Active
+37,Pioneer Monitors 12,Electronics,Monitors,Pioneer,243.9,411.49,Standard,Active
+38,Nova Monitors 13,Electronics,Monitors,Nova,250.93,382.61,Standard,Active
+39,Pioneer Monitors 14,Electronics,Monitors,Pioneer,621.25,1035.1,Premium,Active
+40,Contoso Monitors 15,Electronics,Monitors,Contoso,232.0,393.85,Standard,Active
+41,Contoso Monitors 16,Electronics,Monitors,Contoso,573.78,948.3,Standard,Active
+42,Apex Monitors 17,Electronics,Monitors,Apex,305.53,383.31,Standard,Active
+43,Vertex Monitors 18,Electronics,Monitors,Vertex,669.18,1000.06,Eco,Active
+44,Northwind Monitors 19,Electronics,Monitors,Northwind,16.63,20.34,Eco,Active
+45,Pioneer Monitors 20,Electronics,Monitors,Pioneer,40.14,55.81,Standard,Active
+46,Nova Monitors 21,Electronics,Monitors,Nova,391.37,471.15,Standard,Active
+47,Adventure Monitors 22,Electronics,Monitors,Adventure,809.84,1052.58,Eco,Active
+48,Vertex Monitors 23,Electronics,Monitors,Vertex,99.69,161.96,Eco,Active
+49,Adventure Monitors 24,Electronics,Monitors,Adventure,676.53,1155.3,Standard,Active
+50,Vertex Monitors 25,Electronics,Monitors,Vertex,878.78,1443.08,Standard,Active
+51,Vertex Phones 01,Electronics,Phones,Vertex,167.99,286.75,Eco,Active
+52,Apex Phones 02,Electronics,Phones,Apex,778.75,1278.81,Standard,Active
+53,Contoso Phones 03,Electronics,Phones,Contoso,710.34,881.97,Premium,Active
+54,Orion Phones 04,Electronics,Phones,Orion,206.41,339.64,Premium,Active
+55,Adventure Phones 05,Electronics,Phones,Adventure,280.23,457.71,Standard,Active
+56,Nova Phones 06,Electronics,Phones,Nova,29.11,37.55,Premium,Active
+57,Apex Phones 07,Electronics,Phones,Apex,779.0,1348.55,Premium,Active
+58,Pioneer Phones 08,Electronics,Phones,Pioneer,580.2,816.82,Premium,Active
+59,Apex Phones 09,Electronics,Phones,Apex,845.8,1053.65,Standard,Active
+60,Contoso Phones 10,Electronics,Phones,Contoso,525.89,915.38,Standard,Active
+61,Nova Phones 11,Electronics,Phones,Nova,540.14,743.8,Premium,Active
+62,Vertex Phones 12,Electronics,Phones,Vertex,548.74,807.48,Eco,Active
+63,Vertex Phones 13,Electronics,Phones,Vertex,177.55,214.0,Standard,Active
+64,Adventure Phones 14,Electronics,Phones,Adventure,471.77,773.57,Premium,Active
+65,Nova Phones 15,Electronics,Phones,Nova,392.72,675.82,Eco,Active
+66,Apex Phones 16,Electronics,Phones,Apex,288.01,479.07,Eco,Active
+67,Vertex Phones 17,Electronics,Phones,Vertex,283.88,401.06,Eco,Active
+68,Vertex Phones 18,Electronics,Phones,Vertex,271.72,340.34,Eco,Active
+69,Northwind Phones 19,Electronics,Phones,Northwind,846.8,1326.15,Eco,Active
+70,Contoso Phones 20,Electronics,Phones,Contoso,515.64,727.81,Premium,Active
+71,Summit Phones 21,Electronics,Phones,Summit,263.93,376.11,Eco,Active
+72,Orion Phones 22,Electronics,Phones,Orion,592.0,855.47,Eco,Active
+73,Northwind Phones 23,Electronics,Phones,Northwind,198.62,287.94,Eco,Active
+74,Summit Phones 24,Electronics,Phones,Summit,83.64,123.27,Premium,Active
+75,Adventure Phones 25,Electronics,Phones,Adventure,91.3,157.28,Eco,Active
+76,Northwind Accessories 01,Electronics,Accessories,Northwind,284.89,467.15,Standard,Active
+77,Summit Accessories 02,Electronics,Accessories,Summit,49.22,85.68,Standard,Active
+78,Summit Accessories 03,Electronics,Accessories,Summit,414.23,698.02,Standard,Active
+79,Vertex Accessories 04,Electronics,Accessories,Vertex,648.76,907.53,Standard,Active
+80,Fabrikam Accessories 05,Electronics,Accessories,Fabrikam,139.63,219.49,Premium,Active
+81,Pioneer Accessories 06,Electronics,Accessories,Pioneer,203.21,332.93,Premium,Active
+82,Fabrikam Accessories 07,Electronics,Accessories,Fabrikam,52.79,69.79,Premium,Active
+83,Pioneer Accessories 08,Electronics,Accessories,Pioneer,126.94,183.41,Eco,Active
+84,Orion Accessories 09,Electronics,Accessories,Orion,539.14,928.14,Eco,Active
+85,Vertex Accessories 10,Electronics,Accessories,Vertex,734.99,1241.0,Eco,Active
+86,Orion Accessories 11,Electronics,Accessories,Orion,405.75,515.59,Premium,Active
+87,Apex Accessories 12,Electronics,Accessories,Apex,239.2,315.97,Eco,Active
+88,Orion Accessories 13,Electronics,Accessories,Orion,440.26,579.55,Standard,Active
+89,Nova Accessories 14,Electronics,Accessories,Nova,644.48,846.63,Premium,Active
+90,Northwind Accessories 15,Electronics,Accessories,Northwind,804.58,986.36,Standard,Active
+91,Adventure Accessories 16,Electronics,Accessories,Adventure,349.67,443.07,Standard,Active
+92,Orion Accessories 17,Electronics,Accessories,Orion,378.06,517.41,Premium,Active
+93,Vertex Accessories 18,Electronics,Accessories,Vertex,63.54,105.14,Eco,Active
+94,Summit Accessories 19,Electronics,Accessories,Summit,851.89,1014.71,Premium,Active
+95,Apex Accessories 20,Electronics,Accessories,Apex,433.47,744.43,Premium,Active
+96,Vertex Accessories 21,Electronics,Accessories,Vertex,769.28,1325.82,Eco,Active
+97,Summit Accessories 22,Electronics,Accessories,Summit,674.78,1006.3,Standard,Active
+98,Orion Accessories 23,Electronics,Accessories,Orion,443.5,592.33,Standard,Active
+99,Vertex Accessories 24,Electronics,Accessories,Vertex,354.86,554.03,Eco,Active
+100,Northwind Accessories 25,Electronics,Accessories,Northwind,155.22,224.51,Eco,Active
+101,Summit Paper 01,Office Supplies,Paper,Summit,484.44,822.07,Eco,Active
+102,Vertex Paper 02,Office Supplies,Paper,Vertex,599.4,735.97,Standard,Active
+103,Apex Paper 03,Office Supplies,Paper,Apex,781.23,1002.78,Premium,Active
+104,Nova Paper 04,Office Supplies,Paper,Nova,300.0,431.75,Premium,Active
+105,Vertex Paper 05,Office Supplies,Paper,Vertex,256.2,441.22,Premium,Active
+106,Pioneer Paper 06,Office Supplies,Paper,Pioneer,752.74,1090.02,Standard,Active
+107,Fabrikam Paper 07,Office Supplies,Paper,Fabrikam,899.92,1241.42,Eco,Active
+108,Adventure Paper 08,Office Supplies,Paper,Adventure,43.91,52.59,Standard,Active
+109,Adventure Paper 09,Office Supplies,Paper,Adventure,756.59,1160.73,Standard,Active
+110,Adventure Paper 10,Office Supplies,Paper,Adventure,430.42,535.96,Premium,Active
+111,Northwind Paper 11,Office Supplies,Paper,Northwind,631.92,1021.9,Eco,Active
+112,Fabrikam Paper 12,Office Supplies,Paper,Fabrikam,549.66,882.93,Standard,Active
+113,Contoso Paper 13,Office Supplies,Paper,Contoso,868.53,1078.38,Premium,Active
+114,Vertex Paper 14,Office Supplies,Paper,Vertex,521.61,885.47,Premium,Active
+115,Summit Paper 15,Office Supplies,Paper,Summit,847.79,1096.23,Eco,Active
+116,Apex Paper 16,Office Supplies,Paper,Apex,748.87,987.33,Eco,Active
+117,Summit Paper 17,Office Supplies,Paper,Summit,543.57,678.92,Standard,Active
+118,Nova Paper 18,Office Supplies,Paper,Nova,317.71,452.47,Standard,Active
+119,Vertex Paper 19,Office Supplies,Paper,Vertex,459.32,631.34,Premium,Active
+120,Orion Paper 20,Office Supplies,Paper,Orion,102.14,176.46,Eco,Active
+121,Pioneer Paper 21,Office Supplies,Paper,Pioneer,144.47,184.98,Eco,Active
+122,Pioneer Paper 22,Office Supplies,Paper,Pioneer,248.91,408.38,Premium,Active
+123,Summit Paper 23,Office Supplies,Paper,Summit,422.67,697.69,Premium,Active
+124,Fabrikam Paper 24,Office Supplies,Paper,Fabrikam,295.5,390.04,Premium,Active
+125,Orion Paper 25,Office Supplies,Paper,Orion,794.42,1047.84,Eco,Active
+126,Contoso Writing 01,Office Supplies,Writing,Contoso,552.42,771.19,Premium,Active
+127,Adventure Writing 02,Office Supplies,Writing,Adventure,767.05,984.62,Premium,Active
+128,Summit Writing 03,Office Supplies,Writing,Summit,719.67,988.82,Eco,Active
+129,Pioneer Writing 04,Office Supplies,Writing,Pioneer,793.06,1187.05,Standard,Active
+130,Orion Writing 05,Office Supplies,Writing,Orion,84.37,134.19,Eco,Active
+131,Orion Writing 06,Office Supplies,Writing,Orion,684.28,1076.82,Premium,Active
+132,Adventure Writing 07,Office Supplies,Writing,Adventure,715.3,881.99,Premium,Active
+133,Summit Writing 08,Office Supplies,Writing,Summit,625.07,846.68,Premium,Active
+134,Vertex Writing 09,Office Supplies,Writing,Vertex,430.15,637.75,Eco,Active
+135,Orion Writing 10,Office Supplies,Writing,Orion,498.95,688.82,Premium,Active
+136,Adventure Writing 11,Office Supplies,Writing,Adventure,281.51,369.17,Premium,Active
+137,Northwind Writing 12,Office Supplies,Writing,Northwind,114.64,170.29,Standard,Active
+138,Summit Writing 13,Office Supplies,Writing,Summit,201.02,292.68,Eco,Active
+139,Adventure Writing 14,Office Supplies,Writing,Adventure,540.34,939.59,Premium,Active
+140,Contoso Writing 15,Office Supplies,Writing,Contoso,210.91,270.45,Eco,Active
+141,Contoso Writing 16,Office Supplies,Writing,Contoso,484.45,647.4,Eco,Active
+142,Orion Writing 17,Office Supplies,Writing,Orion,268.59,461.47,Standard,Active
+143,Orion Writing 18,Office Supplies,Writing,Orion,786.47,1185.38,Premium,Active
+144,Contoso Writing 19,Office Supplies,Writing,Contoso,400.9,515.19,Premium,Active
+145,Fabrikam Writing 20,Office Supplies,Writing,Fabrikam,847.43,1230.73,Premium,Active
+146,Contoso Writing 21,Office Supplies,Writing,Contoso,446.64,673.94,Standard,Active
+147,Apex Writing 22,Office Supplies,Writing,Apex,141.08,211.74,Standard,Active
+148,Vertex Writing 23,Office Supplies,Writing,Vertex,894.57,1115.99,Eco,Active
+149,Pioneer Writing 24,Office Supplies,Writing,Pioneer,539.75,827.17,Premium,Active
+150,Summit Writing 25,Office Supplies,Writing,Summit,409.86,587.06,Premium,Active
+151,Summit Storage 01,Office Supplies,Storage,Summit,280.4,430.13,Eco,Active
+152,Adventure Storage 02,Office Supplies,Storage,Adventure,96.52,155.86,Premium,Active
+153,Northwind Storage 03,Office Supplies,Storage,Northwind,597.1,758.03,Eco,Active
+154,Orion Storage 04,Office Supplies,Storage,Orion,74.96,88.57,Eco,Active
+155,Adventure Storage 05,Office Supplies,Storage,Adventure,537.68,723.73,Premium,Active
+156,Orion Storage 06,Office Supplies,Storage,Orion,638.6,1009.44,Standard,Active
+157,Summit Storage 07,Office Supplies,Storage,Summit,621.15,1060.07,Eco,Active
+158,Fabrikam Storage 08,Office Supplies,Storage,Fabrikam,725.08,937.35,Eco,Active
+159,Apex Storage 09,Office Supplies,Storage,Apex,208.53,263.77,Standard,Active
+160,Apex Storage 10,Office Supplies,Storage,Apex,71.7,91.39,Eco,Active
+161,Apex Storage 11,Office Supplies,Storage,Apex,676.07,1017.11,Premium,Active
+162,Vertex Storage 12,Office Supplies,Storage,Vertex,118.92,187.01,Premium,Active
+163,Fabrikam Storage 13,Office Supplies,Storage,Fabrikam,454.42,664.12,Eco,Active
+164,Nova Storage 14,Office Supplies,Storage,Nova,43.56,62.13,Eco,Active
+165,Summit Storage 15,Office Supplies,Storage,Summit,231.33,285.01,Eco,Active
+166,Apex Storage 16,Office Supplies,Storage,Apex,856.1,1497.97,Eco,Active
+167,Orion Storage 17,Office Supplies,Storage,Orion,43.89,70.71,Eco,Active
+168,Northwind Storage 18,Office Supplies,Storage,Northwind,589.15,1002.83,Eco,Active
+169,Fabrikam Storage 19,Office Supplies,Storage,Fabrikam,396.81,652.4,Premium,Active
+170,Fabrikam Storage 20,Office Supplies,Storage,Fabrikam,318.38,436.18,Standard,Active
+171,Apex Storage 21,Office Supplies,Storage,Apex,302.18,476.05,Eco,Active
+172,Pioneer Storage 22,Office Supplies,Storage,Pioneer,851.11,1399.0,Standard,Active
+173,Nova Storage 23,Office Supplies,Storage,Nova,413.7,562.33,Standard,Active
+174,Pioneer Storage 24,Office Supplies,Storage,Pioneer,873.4,1231.83,Standard,Active
+175,Vertex Storage 25,Office Supplies,Storage,Vertex,594.63,885.57,Standard,Active
+176,Orion Desk Accessories 01,Office Supplies,Desk Accessories,Orion,175.32,243.03,Eco,Active
+177,Apex Desk Accessories 02,Office Supplies,Desk Accessories,Apex,402.3,486.55,Eco,Active
+178,Orion Desk Accessories 03,Office Supplies,Desk Accessories,Orion,124.86,167.83,Standard,Active
+179,Adventure Desk Accessories 04,Office Supplies,Desk Accessories,Adventure,33.75,51.95,Eco,Active
+180,Pioneer Desk Accessories 05,Office Supplies,Desk Accessories,Pioneer,149.27,223.01,Premium,Active
+181,Fabrikam Desk Accessories 06,Office Supplies,Desk Accessories,Fabrikam,91.14,159.09,Premium,Active
+182,Northwind Desk Accessories 07,Office Supplies,Desk Accessories,Northwind,852.78,1321.12,Premium,Active
+183,Apex Desk Accessories 08,Office Supplies,Desk Accessories,Apex,839.93,1130.85,Premium,Active
+184,Adventure Desk Accessories 09,Office Supplies,Desk Accessories,Adventure,752.57,1308.52,Premium,Active
+185,Summit Desk Accessories 10,Office Supplies,Desk Accessories,Summit,499.73,698.94,Eco,Active
+186,Fabrikam Desk Accessories 11,Office Supplies,Desk Accessories,Fabrikam,673.69,847.37,Premium,Active
+187,Nova Desk Accessories 12,Office Supplies,Desk Accessories,Nova,697.23,1162.29,Eco,Active
+188,Apex Desk Accessories 13,Office Supplies,Desk Accessories,Apex,246.32,291.02,Eco,Active
+189,Northwind Desk Accessories 14,Office Supplies,Desk Accessories,Northwind,525.29,817.44,Premium,Active
+190,Pioneer Desk Accessories 15,Office Supplies,Desk Accessories,Pioneer,488.41,672.4,Eco,Active
+191,Adventure Desk Accessories 16,Office Supplies,Desk Accessories,Adventure,344.47,589.64,Eco,Active
+192,Vertex Desk Accessories 17,Office Supplies,Desk Accessories,Vertex,221.01,309.04,Standard,Active
+193,Vertex Desk Accessories 18,Office Supplies,Desk Accessories,Vertex,291.81,423.01,Premium,Active
+194,Northwind Desk Accessories 19,Office Supplies,Desk Accessories,Northwind,889.67,1451.64,Premium,Active
+195,Summit Desk Accessories 20,Office Supplies,Desk Accessories,Summit,868.62,1087.48,Premium,Active
+196,Orion Desk Accessories 21,Office Supplies,Desk Accessories,Orion,783.77,1315.39,Standard,Active
+197,Northwind Desk Accessories 22,Office Supplies,Desk Accessories,Northwind,477.15,687.31,Premium,Active
+198,Fabrikam Desk Accessories 23,Office Supplies,Desk Accessories,Fabrikam,784.87,1360.08,Premium,Active
+199,Summit Desk Accessories 24,Office Supplies,Desk Accessories,Summit,705.12,938.56,Eco,Active
+200,Nova Desk Accessories 25,Office Supplies,Desk Accessories,Nova,362.56,444.42,Eco,Active
+201,Nova Kitchen 01,Home Appliances,Kitchen,Nova,774.53,1081.71,Eco,Active
+202,Pioneer Kitchen 02,Home Appliances,Kitchen,Pioneer,649.1,1046.91,Standard,Active
+203,Apex Kitchen 03,Home Appliances,Kitchen,Apex,558.77,734.12,Standard,Active
+204,Fabrikam Kitchen 04,Home Appliances,Kitchen,Fabrikam,674.12,962.21,Eco,Active
+205,Northwind Kitchen 05,Home Appliances,Kitchen,Northwind,635.87,786.76,Eco,Active
+206,Nova Kitchen 06,Home Appliances,Kitchen,Nova,275.12,329.18,Standard,Active
+207,Northwind Kitchen 07,Home Appliances,Kitchen,Northwind,269.68,375.84,Standard,Active
+208,Northwind Kitchen 08,Home Appliances,Kitchen,Northwind,481.8,723.94,Standard,Active
+209,Vertex Kitchen 09,Home Appliances,Kitchen,Vertex,164.16,250.74,Eco,Active
+210,Summit Kitchen 10,Home Appliances,Kitchen,Summit,617.36,903.61,Standard,Active
+211,Orion Kitchen 11,Home Appliances,Kitchen,Orion,215.11,332.05,Premium,Active
+212,Orion Kitchen 12,Home Appliances,Kitchen,Orion,602.82,1020.2,Premium,Active
+213,Orion Kitchen 13,Home Appliances,Kitchen,Orion,612.43,777.81,Premium,Active
+214,Vertex Kitchen 14,Home Appliances,Kitchen,Vertex,888.99,1200.6,Eco,Active
+215,Adventure Kitchen 15,Home Appliances,Kitchen,Adventure,231.09,384.03,Premium,Active
+216,Vertex Kitchen 16,Home Appliances,Kitchen,Vertex,769.18,954.39,Eco,Active
+217,Apex Kitchen 17,Home Appliances,Kitchen,Apex,328.19,442.61,Standard,Active
+218,Apex Kitchen 18,Home Appliances,Kitchen,Apex,880.33,1369.08,Standard,Active
+219,Contoso Kitchen 19,Home Appliances,Kitchen,Contoso,512.81,805.58,Eco,Active
+220,Apex Kitchen 20,Home Appliances,Kitchen,Apex,672.69,1113.11,Standard,Active
+221,Adventure Kitchen 21,Home Appliances,Kitchen,Adventure,549.5,758.76,Eco,Active
+222,Northwind Kitchen 22,Home Appliances,Kitchen,Northwind,231.56,372.97,Eco,Active
+223,Contoso Kitchen 23,Home Appliances,Kitchen,Contoso,94.67,145.57,Premium,Active
+224,Nova Kitchen 24,Home Appliances,Kitchen,Nova,711.44,853.03,Eco,Active
+225,Nova Kitchen 25,Home Appliances,Kitchen,Nova,125.22,212.68,Eco,Active
+226,Pioneer Cleaning 01,Home Appliances,Cleaning,Pioneer,378.63,490.12,Premium,Active
+227,Northwind Cleaning 02,Home Appliances,Cleaning,Northwind,481.52,818.92,Premium,Active
+228,Apex Cleaning 03,Home Appliances,Cleaning,Apex,823.33,1414.63,Eco,Active
+229,Orion Cleaning 04,Home Appliances,Cleaning,Orion,784.39,1285.15,Standard,Active
+230,Vertex Cleaning 05,Home Appliances,Cleaning,Vertex,133.56,231.18,Eco,Active
+231,Contoso Cleaning 06,Home Appliances,Cleaning,Contoso,334.27,545.09,Premium,Active
+232,Apex Cleaning 07,Home Appliances,Cleaning,Apex,486.62,700.36,Eco,Active
+233,Nova Cleaning 08,Home Appliances,Cleaning,Nova,347.87,537.1,Standard,Active
+234,Summit Cleaning 09,Home Appliances,Cleaning,Summit,609.95,883.66,Eco,Active
+235,Fabrikam Cleaning 10,Home Appliances,Cleaning,Fabrikam,300.58,459.21,Eco,Active
+236,Apex Cleaning 11,Home Appliances,Cleaning,Apex,742.88,1261.67,Eco,Active
+237,Contoso Cleaning 12,Home Appliances,Cleaning,Contoso,372.2,468.85,Premium,Active
+238,Adventure Cleaning 13,Home Appliances,Cleaning,Adventure,896.37,1117.05,Eco,Active
+239,Pioneer Cleaning 14,Home Appliances,Cleaning,Pioneer,129.01,185.59,Premium,Active
+240,Vertex Cleaning 15,Home Appliances,Cleaning,Vertex,531.91,847.95,Eco,Active
+241,Vertex Cleaning 16,Home Appliances,Cleaning,Vertex,96.33,140.54,Premium,Active
+242,Orion Cleaning 17,Home Appliances,Cleaning,Orion,37.18,51.72,Premium,Active
+243,Fabrikam Cleaning 18,Home Appliances,Cleaning,Fabrikam,855.9,1427.3,Eco,Active
+244,Nova Cleaning 19,Home Appliances,Cleaning,Nova,335.66,568.6,Standard,Active
+245,Fabrikam Cleaning 20,Home Appliances,Cleaning,Fabrikam,363.14,467.79,Premium,Active
+246,Summit Cleaning 21,Home Appliances,Cleaning,Summit,89.77,116.78,Standard,Active
+247,Northwind Cleaning 22,Home Appliances,Cleaning,Northwind,53.12,72.78,Eco,Active
+248,Pioneer Cleaning 23,Home Appliances,Cleaning,Pioneer,191.04,315.79,Standard,Active
+249,Adventure Cleaning 24,Home Appliances,Cleaning,Adventure,531.05,872.75,Premium,Active
+250,Summit Cleaning 25,Home Appliances,Cleaning,Summit,698.74,1138.62,Standard,Active
+251,Northwind Climate Control 01,Home Appliances,Climate Control,Northwind,255.33,444.5,Eco,Active
+252,Contoso Climate Control 02,Home Appliances,Climate Control,Contoso,231.58,296.3,Standard,Active
+253,Adventure Climate Control 03,Home Appliances,Climate Control,Adventure,21.26,34.66,Eco,Active
+254,Contoso Climate Control 04,Home Appliances,Climate Control,Contoso,296.8,379.7,Standard,Active
+255,Fabrikam Climate Control 05,Home Appliances,Climate Control,Fabrikam,669.61,990.93,Premium,Active
+256,Summit Climate Control 06,Home Appliances,Climate Control,Summit,407.86,565.44,Standard,Active
+257,Summit Climate Control 07,Home Appliances,Climate Control,Summit,411.19,537.13,Standard,Active
+258,Pioneer Climate Control 08,Home Appliances,Climate Control,Pioneer,656.7,1115.07,Premium,Active
+259,Contoso Climate Control 09,Home Appliances,Climate Control,Contoso,416.57,720.46,Premium,Active
+260,Fabrikam Climate Control 10,Home Appliances,Climate Control,Fabrikam,763.79,1086.85,Premium,Active
+261,Fabrikam Climate Control 11,Home Appliances,Climate Control,Fabrikam,643.46,921.97,Premium,Active
+262,Apex Climate Control 12,Home Appliances,Climate Control,Apex,550.6,670.32,Eco,Active
+263,Nova Climate Control 13,Home Appliances,Climate Control,Nova,572.7,854.79,Premium,Active
+264,Orion Climate Control 14,Home Appliances,Climate Control,Orion,895.21,1327.07,Eco,Active
+265,Fabrikam Climate Control 15,Home Appliances,Climate Control,Fabrikam,548.04,677.67,Eco,Active
+266,Adventure Climate Control 16,Home Appliances,Climate Control,Adventure,588.62,952.57,Premium,Active
+267,Nova Climate Control 17,Home Appliances,Climate Control,Nova,410.79,538.23,Premium,Active
+268,Nova Climate Control 18,Home Appliances,Climate Control,Nova,363.67,580.37,Premium,Active
+269,Northwind Climate Control 19,Home Appliances,Climate Control,Northwind,286.77,380.05,Eco,Active
+270,Fabrikam Climate Control 20,Home Appliances,Climate Control,Fabrikam,831.3,1012.74,Standard,Active
+271,Nova Climate Control 21,Home Appliances,Climate Control,Nova,393.23,630.9,Standard,Active
+272,Pioneer Climate Control 22,Home Appliances,Climate Control,Pioneer,504.28,763.62,Eco,Active
+273,Nova Climate Control 23,Home Appliances,Climate Control,Nova,302.04,377.45,Eco,Active
+274,Contoso Climate Control 24,Home Appliances,Climate Control,Contoso,847.49,1204.35,Premium,Active
+275,Summit Climate Control 25,Home Appliances,Climate Control,Summit,543.57,750.36,Eco,Active
+276,Adventure Personal Care 01,Home Appliances,Personal Care,Adventure,197.76,307.39,Standard,Active
+277,Fabrikam Personal Care 02,Home Appliances,Personal Care,Fabrikam,320.3,479.51,Premium,Active
+278,Pioneer Personal Care 03,Home Appliances,Personal Care,Pioneer,520.1,853.02,Eco,Active
+279,Contoso Personal Care 04,Home Appliances,Personal Care,Contoso,555.31,858.7,Eco,Active
+280,Apex Personal Care 05,Home Appliances,Personal Care,Apex,836.74,1382.96,Standard,Active
+281,Apex Personal Care 06,Home Appliances,Personal Care,Apex,168.93,267.0,Premium,Active
+282,Northwind Personal Care 07,Home Appliances,Personal Care,Northwind,321.11,412.11,Eco,Active
+283,Contoso Personal Care 08,Home Appliances,Personal Care,Contoso,594.35,724.91,Standard,Active
+284,Vertex Personal Care 09,Home Appliances,Personal Care,Vertex,673.53,877.36,Premium,Active
+285,Nova Personal Care 10,Home Appliances,Personal Care,Nova,312.08,434.08,Eco,Active
+286,Northwind Personal Care 11,Home Appliances,Personal Care,Northwind,539.83,908.81,Standard,Active
+287,Fabrikam Personal Care 12,Home Appliances,Personal Care,Fabrikam,680.96,822.85,Premium,Active
+288,Summit Personal Care 13,Home Appliances,Personal Care,Summit,403.26,573.31,Premium,Active
+289,Pioneer Personal Care 14,Home Appliances,Personal Care,Pioneer,377.45,491.77,Standard,Active
+290,Summit Personal Care 15,Home Appliances,Personal Care,Summit,315.89,392.72,Premium,Active
+291,Adventure Personal Care 16,Home Appliances,Personal Care,Adventure,478.03,648.11,Premium,Active
+292,Adventure Personal Care 17,Home Appliances,Personal Care,Adventure,886.13,1073.3,Premium,Active
+293,Apex Personal Care 18,Home Appliances,Personal Care,Apex,851.23,1376.77,Premium,Active
+294,Vertex Personal Care 19,Home Appliances,Personal Care,Vertex,300.69,356.14,Standard,Active
+295,Adventure Personal Care 20,Home Appliances,Personal Care,Adventure,123.23,182.82,Eco,Active
+296,Nova Personal Care 21,Home Appliances,Personal Care,Nova,506.38,790.35,Standard,Active
+297,Vertex Personal Care 22,Home Appliances,Personal Care,Vertex,362.19,580.58,Standard,Active
+298,Nova Personal Care 23,Home Appliances,Personal Care,Nova,418.1,511.91,Eco,Active
+299,Vertex Personal Care 24,Home Appliances,Personal Care,Vertex,390.92,551.4,Premium,Active
+300,Nova Personal Care 25,Home Appliances,Personal Care,Nova,110.73,131.98,Standard,Active
+301,Nova Chairs 01,Furniture,Chairs,Nova,722.78,1107.54,Standard,Active
+302,Vertex Chairs 02,Furniture,Chairs,Vertex,397.55,493.1,Eco,Active
+303,Apex Chairs 03,Furniture,Chairs,Apex,365.2,447.31,Eco,Active
+304,Northwind Chairs 04,Furniture,Chairs,Northwind,310.85,425.82,Standard,Active
+305,Pioneer Chairs 05,Furniture,Chairs,Pioneer,463.35,576.87,Standard,Active
+306,Northwind Chairs 06,Furniture,Chairs,Northwind,816.08,1125.49,Standard,Active
+307,Northwind Chairs 07,Furniture,Chairs,Northwind,99.7,132.19,Eco,Active
+308,Fabrikam Chairs 08,Furniture,Chairs,Fabrikam,144.36,232.81,Standard,Active
+309,Orion Chairs 09,Furniture,Chairs,Orion,856.55,1317.31,Eco,Active
+310,Summit Chairs 10,Furniture,Chairs,Summit,685.81,984.74,Eco,Active
+311,Nova Chairs 11,Furniture,Chairs,Nova,574.69,882.71,Standard,Active
+312,Apex Chairs 12,Furniture,Chairs,Apex,400.27,579.3,Premium,Active
+313,Fabrikam Chairs 13,Furniture,Chairs,Fabrikam,535.55,739.38,Premium,Active
+314,Nova Chairs 14,Furniture,Chairs,Nova,419.87,504.45,Premium,Active
+315,Fabrikam Chairs 15,Furniture,Chairs,Fabrikam,76.44,127.86,Eco,Active
+316,Summit Chairs 16,Furniture,Chairs,Summit,537.92,752.63,Eco,Active
+317,Contoso Chairs 17,Furniture,Chairs,Contoso,859.17,1375.69,Premium,Active
+318,Adventure Chairs 18,Furniture,Chairs,Adventure,818.87,1233.09,Premium,Active
+319,Contoso Chairs 19,Furniture,Chairs,Contoso,547.67,802.76,Premium,Active
+320,Nova Chairs 20,Furniture,Chairs,Nova,100.32,169.79,Eco,Active
+321,Contoso Chairs 21,Furniture,Chairs,Contoso,83.22,128.85,Standard,Active
+322,Pioneer Chairs 22,Furniture,Chairs,Pioneer,639.2,1115.32,Eco,Active
+323,Apex Chairs 23,Furniture,Chairs,Apex,551.95,765.79,Premium,Active
+324,Summit Chairs 24,Furniture,Chairs,Summit,372.62,511.56,Standard,Active
+325,Fabrikam Chairs 25,Furniture,Chairs,Fabrikam,711.99,1102.85,Premium,Active
+326,Apex Desks 01,Furniture,Desks,Apex,92.3,144.6,Premium,Active
+327,Summit Desks 02,Furniture,Desks,Summit,653.57,1015.81,Standard,Active
+328,Northwind Desks 03,Furniture,Desks,Northwind,305.36,461.75,Premium,Active
+329,Vertex Desks 04,Furniture,Desks,Vertex,284.73,442.46,Standard,Active
+330,Apex Desks 05,Furniture,Desks,Apex,538.78,923.83,Eco,Active
+331,Northwind Desks 06,Furniture,Desks,Northwind,344.0,561.15,Eco,Active
+332,Pioneer Desks 07,Furniture,Desks,Pioneer,634.93,1091.99,Standard,Active
+333,Nova Desks 08,Furniture,Desks,Nova,584.25,830.42,Standard,Active
+334,Adventure Desks 09,Furniture,Desks,Adventure,331.44,425.15,Premium,Active
+335,Adventure Desks 10,Furniture,Desks,Adventure,853.32,1243.44,Standard,Active
+336,Fabrikam Desks 11,Furniture,Desks,Fabrikam,146.21,197.18,Eco,Active
+337,Pioneer Desks 12,Furniture,Desks,Pioneer,695.62,1151.96,Standard,Active
+338,Summit Desks 13,Furniture,Desks,Summit,598.44,1005.11,Standard,Active
+339,Northwind Desks 14,Furniture,Desks,Northwind,540.74,685.62,Eco,Active
+340,Northwind Desks 15,Furniture,Desks,Northwind,695.82,1141.95,Eco,Active
+341,Adventure Desks 16,Furniture,Desks,Adventure,398.4,563.41,Premium,Active
+342,Orion Desks 17,Furniture,Desks,Orion,552.65,889.14,Standard,Active
+343,Orion Desks 18,Furniture,Desks,Orion,484.34,656.96,Standard,Active
+344,Orion Desks 19,Furniture,Desks,Orion,336.11,578.06,Premium,Active
+345,Pioneer Desks 20,Furniture,Desks,Pioneer,694.34,1127.28,Eco,Active
+346,Adventure Desks 21,Furniture,Desks,Adventure,381.45,485.35,Eco,Active
+347,Orion Desks 22,Furniture,Desks,Orion,131.45,173.84,Premium,Active
+348,Pioneer Desks 23,Furniture,Desks,Pioneer,502.65,622.52,Standard,Active
+349,Apex Desks 24,Furniture,Desks,Apex,262.28,423.58,Premium,Active
+350,Vertex Desks 25,Furniture,Desks,Vertex,815.53,1030.82,Standard,Active
+351,Orion Storage Furniture 01,Furniture,Storage Furniture,Orion,852.2,1113.45,Premium,Active
+352,Vertex Storage Furniture 02,Furniture,Storage Furniture,Vertex,837.98,1186.99,Eco,Active
+353,Fabrikam Storage Furniture 03,Furniture,Storage Furniture,Fabrikam,341.57,478.24,Premium,Active
+354,Fabrikam Storage Furniture 04,Furniture,Storage Furniture,Fabrikam,208.29,283.62,Eco,Active
+355,Northwind Storage Furniture 05,Furniture,Storage Furniture,Northwind,587.76,958.69,Standard,Active
+356,Northwind Storage Furniture 06,Furniture,Storage Furniture,Northwind,263.9,436.22,Eco,Active
+357,Fabrikam Storage Furniture 07,Furniture,Storage Furniture,Fabrikam,426.45,652.79,Standard,Active
+358,Pioneer Storage Furniture 08,Furniture,Storage Furniture,Pioneer,236.28,391.26,Eco,Active
+359,Apex Storage Furniture 09,Furniture,Storage Furniture,Apex,551.12,783.28,Standard,Active
+360,Vertex Storage Furniture 10,Furniture,Storage Furniture,Vertex,276.63,333.95,Eco,Active
+361,Fabrikam Storage Furniture 11,Furniture,Storage Furniture,Fabrikam,716.16,1031.67,Premium,Active
+362,Pioneer Storage Furniture 12,Furniture,Storage Furniture,Pioneer,540.29,642.6,Eco,Active
+363,Vertex Storage Furniture 13,Furniture,Storage Furniture,Vertex,223.81,282.41,Standard,Active
+364,Vertex Storage Furniture 14,Furniture,Storage Furniture,Vertex,556.41,732.86,Standard,Active
+365,Nova Storage Furniture 15,Furniture,Storage Furniture,Nova,600.62,738.04,Standard,Active
+366,Pioneer Storage Furniture 16,Furniture,Storage Furniture,Pioneer,858.44,1279.18,Eco,Active
+367,Contoso Storage Furniture 17,Furniture,Storage Furniture,Contoso,26.14,43.86,Eco,Active
+368,Contoso Storage Furniture 18,Furniture,Storage Furniture,Contoso,353.1,491.79,Premium,Active
+369,Fabrikam Storage Furniture 19,Furniture,Storage Furniture,Fabrikam,711.36,979.21,Eco,Active
+370,Contoso Storage Furniture 20,Furniture,Storage Furniture,Contoso,663.79,909.08,Premium,Active
+371,Northwind Storage Furniture 21,Furniture,Storage Furniture,Northwind,495.04,813.7,Eco,Active
+372,Northwind Storage Furniture 22,Furniture,Storage Furniture,Northwind,422.44,665.92,Standard,Active
+373,Orion Storage Furniture 23,Furniture,Storage Furniture,Orion,64.29,104.31,Standard,Active
+374,Adventure Storage Furniture 24,Furniture,Storage Furniture,Adventure,269.75,325.04,Standard,Active
+375,Vertex Storage Furniture 25,Furniture,Storage Furniture,Vertex,289.51,392.79,Eco,Active
+376,Adventure Meeting Room 01,Furniture,Meeting Room,Adventure,430.27,516.7,Premium,Active
+377,Nova Meeting Room 02,Furniture,Meeting Room,Nova,326.42,530.46,Premium,Active
+378,Vertex Meeting Room 03,Furniture,Meeting Room,Vertex,119.03,165.42,Eco,Active
+379,Nova Meeting Room 04,Furniture,Meeting Room,Nova,400.25,690.51,Standard,Active
+380,Pioneer Meeting Room 05,Furniture,Meeting Room,Pioneer,450.61,659.51,Premium,Active
+381,Fabrikam Meeting Room 06,Furniture,Meeting Room,Fabrikam,722.62,1152.17,Premium,Active
+382,Pioneer Meeting Room 07,Furniture,Meeting Room,Pioneer,545.39,899.2,Premium,Active
+383,Apex Meeting Room 08,Furniture,Meeting Room,Apex,294.52,360.98,Premium,Active
+384,Northwind Meeting Room 09,Furniture,Meeting Room,Northwind,405.76,644.78,Eco,Active
+385,Nova Meeting Room 10,Furniture,Meeting Room,Nova,403.97,579.64,Eco,Active
+386,Contoso Meeting Room 11,Furniture,Meeting Room,Contoso,898.35,1200.64,Standard,Active
+387,Pioneer Meeting Room 12,Furniture,Meeting Room,Pioneer,606.7,856.38,Eco,Active
+388,Northwind Meeting Room 13,Furniture,Meeting Room,Northwind,614.03,1058.03,Eco,Active
+389,Northwind Meeting Room 14,Furniture,Meeting Room,Northwind,612.86,876.24,Standard,Active
+390,Nova Meeting Room 15,Furniture,Meeting Room,Nova,218.51,338.2,Premium,Active
+391,Northwind Meeting Room 16,Furniture,Meeting Room,Northwind,854.92,1024.59,Eco,Active
+392,Orion Meeting Room 17,Furniture,Meeting Room,Orion,409.33,569.56,Standard,Active
+393,Vertex Meeting Room 18,Furniture,Meeting Room,Vertex,519.94,770.44,Premium,Active
+394,Fabrikam Meeting Room 19,Furniture,Meeting Room,Fabrikam,587.41,776.72,Standard,Active
+395,Vertex Meeting Room 20,Furniture,Meeting Room,Vertex,664.22,972.72,Eco,Active
+396,Orion Meeting Room 21,Furniture,Meeting Room,Orion,113.04,183.32,Standard,Active
+397,Orion Meeting Room 22,Furniture,Meeting Room,Orion,896.76,1204.15,Standard,Active
+398,Orion Meeting Room 23,Furniture,Meeting Room,Orion,117.39,195.58,Standard,Active
+399,Fabrikam Meeting Room 24,Furniture,Meeting Room,Fabrikam,809.62,1160.76,Eco,Active
+400,Nova Meeting Room 25,Furniture,Meeting Room,Nova,871.06,1517.69,Eco,Active
+401,Apex Routers 01,Networking,Routers,Apex,65.93,98.17,Standard,Active
+402,Northwind Routers 02,Networking,Routers,Northwind,642.93,1098.49,Premium,Active
+403,Adventure Routers 03,Networking,Routers,Adventure,461.81,576.88,Standard,Active
+404,Nova Routers 04,Networking,Routers,Nova,219.17,320.34,Eco,Active
+405,Pioneer Routers 05,Networking,Routers,Pioneer,518.47,749.93,Standard,Active
+406,Apex Routers 06,Networking,Routers,Apex,553.86,680.77,Premium,Active
+407,Pioneer Routers 07,Networking,Routers,Pioneer,899.64,1430.21,Premium,Active
+408,Fabrikam Routers 08,Networking,Routers,Fabrikam,694.09,1144.77,Standard,Active
+409,Orion Routers 09,Networking,Routers,Orion,875.36,1353.42,Premium,Active
+410,Pioneer Routers 10,Networking,Routers,Pioneer,614.66,846.0,Eco,Active
+411,Northwind Routers 11,Networking,Routers,Northwind,532.31,861.08,Premium,Active
+412,Fabrikam Routers 12,Networking,Routers,Fabrikam,456.55,764.67,Eco,Active
+413,Nova Routers 13,Networking,Routers,Nova,144.49,184.06,Eco,Active
+414,Pioneer Routers 14,Networking,Routers,Pioneer,209.12,359.7,Premium,Active
+415,Pioneer Routers 15,Networking,Routers,Pioneer,762.57,1008.76,Premium,Active
+416,Pioneer Routers 16,Networking,Routers,Pioneer,119.65,161.84,Standard,Active
+417,Summit Routers 17,Networking,Routers,Summit,456.3,582.29,Standard,Active
+418,Summit Routers 18,Networking,Routers,Summit,160.71,246.84,Premium,Active
+419,Contoso Routers 19,Networking,Routers,Contoso,759.54,1140.27,Standard,Active
+420,Summit Routers 20,Networking,Routers,Summit,48.55,75.04,Premium,Active
+421,Vertex Routers 21,Networking,Routers,Vertex,588.81,952.2,Eco,Active
+422,Pioneer Routers 22,Networking,Routers,Pioneer,577.98,846.09,Premium,Active
+423,Adventure Routers 23,Networking,Routers,Adventure,580.58,785.06,Eco,Active
+424,Contoso Routers 24,Networking,Routers,Contoso,370.23,532.58,Standard,Active
+425,Adventure Routers 25,Networking,Routers,Adventure,400.13,582.6,Premium,Active
+426,Nova Switches 01,Networking,Switches,Nova,549.14,745.83,Eco,Active
+427,Vertex Switches 02,Networking,Switches,Vertex,889.32,1224.47,Standard,Active
+428,Fabrikam Switches 03,Networking,Switches,Fabrikam,686.51,1011.6,Premium,Active
+429,Orion Switches 04,Networking,Switches,Orion,223.63,279.5,Standard,Active
+430,Vertex Switches 05,Networking,Switches,Vertex,133.66,161.57,Eco,Active
+431,Northwind Switches 06,Networking,Switches,Northwind,380.98,658.61,Premium,Active
+432,Adventure Switches 07,Networking,Switches,Adventure,840.91,1337.92,Standard,Active
+433,Orion Switches 08,Networking,Switches,Orion,452.45,666.64,Premium,Active
+434,Vertex Switches 09,Networking,Switches,Vertex,451.65,556.13,Eco,Active
+435,Summit Switches 10,Networking,Switches,Summit,415.85,547.76,Premium,Active
+436,Summit Switches 11,Networking,Switches,Summit,51.4,68.9,Eco,Active
+437,Contoso Switches 12,Networking,Switches,Contoso,607.89,816.32,Standard,Active
+438,Nova Switches 13,Networking,Switches,Nova,392.39,660.39,Premium,Active
+439,Summit Switches 14,Networking,Switches,Summit,334.42,470.97,Eco,Active
+440,Fabrikam Switches 15,Networking,Switches,Fabrikam,181.63,271.6,Premium,Active
+441,Apex Switches 16,Networking,Switches,Apex,457.8,739.67,Eco,Active
+442,Fabrikam Switches 17,Networking,Switches,Fabrikam,614.92,767.25,Premium,Active
+443,Pioneer Switches 18,Networking,Switches,Pioneer,340.89,593.99,Premium,Active
+444,Pioneer Switches 19,Networking,Switches,Pioneer,681.43,881.4,Premium,Active
+445,Northwind Switches 20,Networking,Switches,Northwind,454.07,547.53,Eco,Active
+446,Orion Switches 21,Networking,Switches,Orion,305.07,442.36,Standard,Active
+447,Nova Switches 22,Networking,Switches,Nova,548.78,808.81,Eco,Active
+448,Summit Switches 23,Networking,Switches,Summit,292.13,410.15,Eco,Active
+449,Pioneer Switches 24,Networking,Switches,Pioneer,759.6,1153.39,Eco,Active
+450,Apex Switches 25,Networking,Switches,Apex,482.85,764.83,Premium,Active
+451,Fabrikam Cables 01,Networking,Cables,Fabrikam,735.65,1022.53,Premium,Active
+452,Contoso Cables 02,Networking,Cables,Contoso,528.66,863.91,Eco,Active
+453,Summit Cables 03,Networking,Cables,Summit,431.33,746.73,Eco,Active
+454,Orion Cables 04,Networking,Cables,Orion,210.97,255.12,Standard,Active
+455,Vertex Cables 05,Networking,Cables,Vertex,475.62,756.75,Standard,Active
+456,Summit Cables 06,Networking,Cables,Summit,740.92,976.57,Eco,Active
+457,Nova Cables 07,Networking,Cables,Nova,106.03,126.26,Premium,Active
+458,Vertex Cables 08,Networking,Cables,Vertex,143.08,225.15,Eco,Active
+459,Contoso Cables 09,Networking,Cables,Contoso,699.28,1192.06,Eco,Active
+460,Nova Cables 10,Networking,Cables,Nova,131.17,170.28,Eco,Active
+461,Northwind Cables 11,Networking,Cables,Northwind,434.71,606.33,Premium,Active
+462,Nova Cables 12,Networking,Cables,Nova,821.61,1129.82,Eco,Active
+463,Apex Cables 13,Networking,Cables,Apex,696.61,1108.26,Eco,Active
+464,Apex Cables 14,Networking,Cables,Apex,439.89,759.11,Eco,Active
+465,Apex Cables 15,Networking,Cables,Apex,274.26,470.81,Premium,Active
+466,Orion Cables 16,Networking,Cables,Orion,636.77,1001.92,Premium,Active
+467,Apex Cables 17,Networking,Cables,Apex,435.98,653.74,Premium,Active
+468,Vertex Cables 18,Networking,Cables,Vertex,116.71,182.73,Premium,Active
+469,Northwind Cables 19,Networking,Cables,Northwind,737.99,1272.39,Premium,Active
+470,Fabrikam Cables 20,Networking,Cables,Fabrikam,45.52,78.5,Premium,Active
+471,Orion Cables 21,Networking,Cables,Orion,832.22,1293.19,Standard,Active
+472,Pioneer Cables 22,Networking,Cables,Pioneer,188.24,279.91,Eco,Active
+473,Summit Cables 23,Networking,Cables,Summit,250.29,310.93,Standard,Active
+474,Pioneer Cables 24,Networking,Cables,Pioneer,224.27,350.27,Standard,Active
+475,Vertex Cables 25,Networking,Cables,Vertex,577.05,698.18,Premium,Active
+476,Northwind Security Devices 01,Networking,Security Devices,Northwind,647.88,801.63,Standard,Active
+477,Northwind Security Devices 02,Networking,Security Devices,Northwind,868.35,1508.68,Premium,Active
+478,Orion Security Devices 03,Networking,Security Devices,Orion,590.38,993.0,Premium,Active
+479,Apex Security Devices 04,Networking,Security Devices,Apex,588.28,947.64,Premium,Active
+480,Fabrikam Security Devices 05,Networking,Security Devices,Fabrikam,262.59,318.71,Eco,Active
+481,Contoso Security Devices 06,Networking,Security Devices,Contoso,520.13,772.41,Standard,Active
+482,Contoso Security Devices 07,Networking,Security Devices,Contoso,380.75,631.07,Premium,Active
+483,Apex Security Devices 08,Networking,Security Devices,Apex,710.86,914.31,Standard,Active
+484,Fabrikam Security Devices 09,Networking,Security Devices,Fabrikam,16.27,24.47,Premium,Active
+485,Pioneer Security Devices 10,Networking,Security Devices,Pioneer,261.83,456.58,Eco,Active
+486,Pioneer Security Devices 11,Networking,Security Devices,Pioneer,448.57,769.29,Premium,Active
+487,Nova Security Devices 12,Networking,Security Devices,Nova,251.37,412.5,Standard,Active
+488,Northwind Security Devices 13,Networking,Security Devices,Northwind,660.16,1022.93,Standard,Active
+489,Summit Security Devices 14,Networking,Security Devices,Summit,665.06,1084.54,Eco,Active
+490,Vertex Security Devices 15,Networking,Security Devices,Vertex,683.5,874.9,Premium,Active
+491,Fabrikam Security Devices 16,Networking,Security Devices,Fabrikam,467.63,574.92,Standard,Active
+492,Adventure Security Devices 17,Networking,Security Devices,Adventure,883.66,1283.21,Standard,Active
+493,Apex Security Devices 18,Networking,Security Devices,Apex,240.62,316.23,Premium,Active
+494,Contoso Security Devices 19,Networking,Security Devices,Contoso,277.34,441.54,Premium,Active
+495,Contoso Security Devices 20,Networking,Security Devices,Contoso,591.09,930.89,Eco,Active
+496,Vertex Security Devices 21,Networking,Security Devices,Vertex,113.46,153.72,Eco,Active
+497,Apex Security Devices 22,Networking,Security Devices,Apex,456.25,771.16,Eco,Active
+498,Apex Security Devices 23,Networking,Security Devices,Apex,112.73,191.89,Premium,Active
+499,Northwind Security Devices 24,Networking,Security Devices,Northwind,556.25,725.85,Premium,Active
+500,Summit Security Devices 25,Networking,Security Devices,Summit,144.64,232.32,Premium,Active

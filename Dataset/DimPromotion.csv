@@ -1,0 +1,21 @@
+﻿PromotionKey,PromotionName,PromotionType,DiscountRate,StartDate,EndDate,ApplicableCategory
+0,No Promotion,None,0,01/01/2022,31/12/2025,All
+1,Campaign 01,Volume,0.15,01/03/2023,26/05/2023,Furniture
+2,Campaign 02,New Product,0.08,01/05/2024,01/07/2024,All
+3,Campaign 03,Customer Loyalty,0.12,01/07/2025,28/09/2025,Office Supplies
+4,Campaign 04,Seasonal,0.15,01/09/2022,25/09/2022,Networking
+5,Campaign 05,Volume,0.12,01/11/2023,29/01/2024,All
+6,Campaign 06,New Product,0.2,01/01/2024,02/03/2024,Furniture
+7,Campaign 07,Customer Loyalty,0.08,01/03/2025,28/04/2025,All
+8,Campaign 08,Seasonal,0.1,01/05/2022,07/06/2022,Electronics
+9,Campaign 09,Volume,0.15,01/07/2023,01/09/2023,All
+10,Campaign 10,New Product,0.05,01/09/2024,10/10/2024,Networking
+11,Campaign 11,Customer Loyalty,0.08,01/11/2025,14/12/2025,Home Appliances
+12,Campaign 12,Seasonal,0.05,01/01/2022,19/02/2022,Networking
+13,Campaign 13,Volume,0.12,01/03/2023,22/05/2023,Furniture
+14,Campaign 14,New Product,0.15,01/05/2024,03/06/2024,Home Appliances
+15,Campaign 15,Customer Loyalty,0.08,01/07/2025,10/09/2025,Networking
+16,Campaign 16,Seasonal,0.05,01/09/2022,29/11/2022,All
+17,Campaign 17,Volume,0.12,01/11/2023,07/01/2024,Networking
+18,Campaign 18,New Product,0.05,01/01/2024,06/02/2024,Electronics
+19,Campaign 19,Customer Loyalty,0.2,01/03/2025,20/05/2025,Home Appliances
