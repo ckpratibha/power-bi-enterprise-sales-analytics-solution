@@ -1,9 +1,5 @@
 # Enterprise Sales Analytics Dashboard | Power BI
 
-## Project Files
-
-- [Download the Power BI Dashboard](Dashboard/Enterprise_Sales_Analytics.pbix)
-
 ## Project Overview
 
 This project demonstrates the design and implementation of an enterprise Power BI solution for **Contoso Global Distribution**, a fictional multinational distribution company.
