@@ -3,7 +3,6 @@
 ## Project Files
 
 - [Download the Power BI Dashboard](Dashboard/Enterprise_Sales_Analytics.pbix)
-- [View the Dataset](Dataset/FactSales.csv)
 
 ## Project Overview
 
