@@ -1,6 +1,9 @@
 # Enterprise Sales Analytics Dashboard | Power BI
 
-![Enterprise Sales Analytics Dashboard](Images/Executive-Dashboard.png)
+## Project Files
+
+- [Download the Power BI Dashboard](Dashboard/Enterprise_Sales_Analytics.pbix)
+- [View the Dataset](Data/FactSales.csv)
 
 ## Project Overview
 
@@ -32,7 +35,7 @@ The business faced the following challenges:
 
 ## Dataset and Data Model
 
-![Power BI Data Model](Images/Data-Model.png)
+![Power BI Data Model](Images/DataModel.png)
 
 The solution follows a **star schema** consisting of:
 
@@ -66,21 +69,21 @@ The executive dashboard provides:
 - Channel performance
 - Order-status monitoring
 
-### Customer Profile
+### Customer Drillthrough
 
-![Customer Profile](Images/Customer-Profile.png)
+![Customer Drillthrough](Images/Customer_Drillthrough.png)
 
 The drill-through page allows users to navigate from summary visuals to detailed customer profiles.
 
-### Report Tooltip
+### Customer Tooltip
 
-![Report Tooltip](Images/Report-Tooltip.png)
+![Customer Tooltip](Images/Customer_Tooltip.png)
 
 The report tooltip provides contextual customer information without requiring users to navigate away from the current report page.
 
 ### Dynamic Row-Level Security
 
-![Dynamic Row-Level Security](Images/Dynamic-RLS.png)
+![Dynamic Row-Level Security](Images/RLS.png)
 
 Dynamic Row-Level Security uses `USERPRINCIPALNAME()` to ensure users can access only the data relevant to their responsibilities.
 
